@@ -1,2 +1,3 @@
 # Nakano.lt 003
-やるぞ〜。
+## Staff
+- [@tkgdisco](http://twitter.com/tkgdisco/)
