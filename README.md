@@ -5,6 +5,10 @@
 - ATND(参加登録): [HERE](http://t.co/7Dg21DAvrR)
 - スピーカー用フォーム: [HERE](https://docs.google.com/forms/d/11W_fQU8YqzfzNzGzlika1I5Nuxr_aExyXcAzWfZt-iI/viewform#start=openform)
 
+### 懇親会
+- 6Fでピザ会？未定ですがイベント終了次第行う予定
+  - おねだん考えたい
+
 ## How to join us
 - GitHubのアカウントを作る http://github.com/join
 - タスクを眺める https://github.com/nakano-lt/003/issues
